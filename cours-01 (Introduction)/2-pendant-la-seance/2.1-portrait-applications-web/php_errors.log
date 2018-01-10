@@ -1,0 +1,2 @@
+[09-Jan-2018 00:38:04 UTC] PHP Parse error:  syntax error, unexpected '$asdfd' (T_VARIABLE) in /home/ubuntu/workspace/cours-01 (Introduction)/2-pendant-la-seance/2.1-portrait-applications-web/demo/demo.php on line 4
+[09-Jan-2018 00:38:56 UTC] PHP Parse error:  syntax error, unexpected '$asd' (T_VARIABLE) in /home/ubuntu/workspace/cours-01 (Introduction)/2-pendant-la-seance/2.1-portrait-applications-web/demo/demo.php on line 4
